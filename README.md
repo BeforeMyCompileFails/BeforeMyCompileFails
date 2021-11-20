@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeforeMyCompileFails
-- 📫 denis@konzola.net
+- 📫 denis[AT]konzola.net
 
 <!---
 BeforeMyCompileFails/BeforeMyCompileFails is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
